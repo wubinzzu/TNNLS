@@ -1,5 +1,5 @@
 # OrdRec
-This is our Tensorflow implementation for our TNNLS 2021 paper(under review) and a part of baselines:
+This is our Tensorflow implementation for our TNNLS 2021 paper(under review) and some baselines:
 
 >Bin Wu, Xiangnan He, Qi Zhang, Meng Wang, Yangdong Ye(2021). OrdRec: Modeling Order-aware Sequential Information for Next-item Recommendation(under review).
 
