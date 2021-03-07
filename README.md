@@ -26,10 +26,10 @@ python main.py
 ```
 
 NOTE :  
-        * (1) the duration of training and testing depends on the running environment.\n
-        * (2) set model hyperparameters on .\conf\OrdRec.properties\n
-        * (3) set NeuRec parameters on .\NeuRec.properties       
-        * (4) the log file save at .\log\cellphones_tnnls\
+ * (1) the duration of training and testing depends on the running environment.\n
+ * (2) set model hyperparameters on .\conf\OrdRec.properties\n
+ * (3) set NeuRec parameters on .\NeuRec.properties       
+ * (4) the log file save at .\log\cellphones_tnnls\
 
 ## Dataset
 We provide Amazon_Cell_Phones_and_Accessories(cellphones_tnnls) dataset.
