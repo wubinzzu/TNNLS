@@ -28,7 +28,7 @@ python main.py
 
 NOTE :  
  * the duration of training and testing depends on the running environment.
- * set model hyperparameters on .\conf\OrdRec.properties\n
+ * set model hyperparameters on .\conf\OrdRec.properties
  * set NeuRec parameters on .\NeuRec.properties       
  * the log file save at .\log\cellphones_tnnls\
 
