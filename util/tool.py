@@ -195,7 +195,6 @@ def pad_sequences(sequences, value=0., max_len=None,
             raise ValueError('Padding type "%s" not understood' % padding)
     return x
 
-
 def inner_product(a, b, name="inner_product"):
     with tf.name_scope(name=name):
         return tf.reduce_sum(tf.multiply(a, b), axis=-1)
