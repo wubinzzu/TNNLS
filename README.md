@@ -17,7 +17,8 @@ python setup.py build_ext --inplace
 ```
 If the compilation is successful, the evaluator of cpp implementation will be called automatically.
 Otherwise, the evaluator of python implementation will be called.
-NOTE: The cpp implementation is much faster than python.**
+
+NOTE: The cpp implementation is much faster than python.
 
 ## Examples to run OrdRec:
 run [main.py](./main.py) in IDE or with command line:
