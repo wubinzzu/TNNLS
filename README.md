@@ -50,3 +50,11 @@ The list of available models in TNNLS, along with their paper citations, are sho
 | FPMC                   | Steffen Rendle et al., Factorizing Personalized Markov Chains for Next-Basket Recommendation, WWW 2010.    |
 | HGN                    | Chen Ma et al., Hierarchical Gating Networks for Sequential Recommendation, KDD 2019.                      |
 | SASRec                 | Wangcheng Kang et al., Self-Attentive Sequential Recommendation, ICDM 2018.                                |
+
+## Results
+
+The outputs with default settings are as below:
+
+```
+
+
