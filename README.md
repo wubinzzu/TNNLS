@@ -1,4 +1,4 @@
-# OrdRec
+# GCRec
 This is our Tensorflow implementation for our TNNLS 2021 paper(under review) and some baselines:
 
 >Bin Wu, Xiangnan He, Qi Zhang, Meng Wang, Yangdong Ye(2021). GCRec: Graph Augmented Capsule Network for Next-Item Recommendation(under review).
@@ -20,7 +20,7 @@ Otherwise, the evaluator of python implementation will be called.
 
 NOTE: The cpp implementation is much faster than python.
 
-## Examples to run OrdRec:
+## Examples to run GCRec:
 run [main.py](./main.py) in IDE or with command line:
 ```
 python main.py
