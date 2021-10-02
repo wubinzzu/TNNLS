@@ -1,7 +1,7 @@
 # OrdRec
 This is our Tensorflow implementation for our TNNLS 2021 paper(under review) and some baselines:
 
->Bin Wu, Xiangnan He, Qi Zhang, Meng Wang, Yangdong Ye(2021). OrdRec: Modeling Order-aware Sequential Information for Next-item Recommendation(under review).
+>Bin Wu, Xiangnan He, Qi Zhang, Meng Wang, Yangdong Ye(2021). GCRec: Graph Augmented Capsule Network for Next-Item Recommendation(under review).
 
 ## Environment Requirement
 The code has been tested running under Python 3.6.5. The required packages are as follows:
@@ -49,7 +49,8 @@ The list of available models in TNNLS, along with their paper citations, are sho
 |------------------------|------------------------------------------------------------------------------------------------------------|
 | FPMC                   | Steffen Rendle et al., Factorizing Personalized Markov Chains for Next-Basket Recommendation, WWW 2010.    |
 | HGN                    | Chen Ma et al., Hierarchical Gating Networks for Sequential Recommendation, KDD 2019.                      |
-| SASRec                 | Wangcheng Kang et al., Self-Attentive Sequential Recommendation, ICDM 2018.                                |
+| SASRec                 | Wangcheng Kang et al., Self-Attentive Sequential Recommendation, ICDM 2018.     
+| GCRec                  | Bin  Wu et al., GCRec: Graph Augmented Capsule Network for Next-Item Recommendation, IEEE TNNLS 2021.   
 
 ## Results
 ```
