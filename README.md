@@ -62,11 +62,11 @@ Average actions of items: 2.60
 The sparsity of the dataset: 99.972710%
 2021-09-10 17:29:54.066: metrics:	Precision@10	Recall@10   	MAP@10      	NDCG@10     
    ...
-2021-09-10 17:30:02.995   Epoch 1 : training time==[2.936]
-2021-09-10 17:30:06.031   Epoch 2 : training time==[3.036]
+2021-09-10 17:30:02.995   Epoch 1 : training time==[2.936s]
+2021-09-10 17:30:06.031   Epoch 2 : training time==[3.036s]
     ...
 2021-09-10 17:34:44.608   Epoch 96: training time==[3.025]
-2021-09-10 17:34:46.986   testing time==[0.20300s] results: 0.01014257  	0.03809093  	0.01660337  	0.02734699  
+2021-09-10 17:34:46.986   testing time==[2.378s] results: 0.01014257  	0.03809093  	0.01660337  	0.02734699  
 ```
 NOTE : the duration of training and testing depends on the running environment.
 
