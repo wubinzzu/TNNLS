@@ -53,8 +53,23 @@ The list of available models in TNNLS, along with their paper citations, are sho
 
 ## Results
 
-The outputs with default settings are as below:
-
+2021-09-10 15:29:51.111: Dataset name: cellphones
+The number of users: 9534
+The number of items: 53479
+The number of ratings: 139141
+Average actions of users: 14.59
+Average actions of items: 2.60
+The sparsity of the dataset: 99.972710%
+2021-09-10 17:29:54.066: metrics:	Precision@10	Recall@10   	MAP@10      	NDCG@10     
+   ...
+2021-09-10 17:30:02.995   Epoch 1 : training time==[2.936]
+2021-09-10 17:30:06.031   Epoch 2 : training time==[3.036]
+    ...
+2021-09-10 17:34:44.608   Epoch 96: training time==[3.025]
+test==[0.20300s] 0.01014257  	0.03809093  	0.01660337  	0.02734699  
 ```
+NOTE : the duration of training and testing depends on the running environment.
+2021-09-10 17:36.986: -- 0.01014257  	0.03809093  	0.01660337  	0.02734699  
+
 
 
