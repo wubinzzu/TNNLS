@@ -52,7 +52,7 @@ The list of available models in TNNLS, along with their paper citations, are sho
 | SASRec                 | Wangcheng Kang et al., Self-Attentive Sequential Recommendation, ICDM 2018.                                |
 
 ## Results
-
+```
 2021-09-10 15:29:51.111: Dataset name: cellphones
 The number of users: 9534
 The number of items: 53479
