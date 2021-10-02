@@ -66,7 +66,7 @@ The sparsity of the dataset: 99.972710%
 2021-09-10 17:30:06.031   Epoch 2 : training time==[3.036]
     ...
 2021-09-10 17:34:44.608   Epoch 96: training time==[3.025]
-test==[0.20300s] 0.01014257  	0.03809093  	0.01660337  	0.02734699  
+2021-09-10 17:34:46.986   testing time==[0.20300s] results: 0.01014257  	0.03809093  	0.01660337  	0.02734699  
 ```
 NOTE : the duration of training and testing depends on the running environment.
 
