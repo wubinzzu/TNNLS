@@ -69,7 +69,6 @@ The sparsity of the dataset: 99.972710%
 test==[0.20300s] 0.01014257  	0.03809093  	0.01660337  	0.02734699  
 ```
 NOTE : the duration of training and testing depends on the running environment.
-2021-09-10 17:36.986: -- 0.01014257  	0.03809093  	0.01660337  	0.02734699  
 
 
 
