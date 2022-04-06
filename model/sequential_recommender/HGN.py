@@ -38,7 +38,7 @@ class HGN(SeqAbstractRecommender):
         self.user_ph = tf.placeholder(tf.int32, [None], name="user")
         self.item_seqs_ph = tf.placeholder(tf.int32, [None, self.seq_L], name="item_seqs")
         self.pos_item_ph = tf.placeholder(tf.int32, [None, self.seq_T], name="pos_item")
-        self.neg_item_ph = tf.placeholder(tf.int32, [None, self.seq_T], name="neg_item")
+        self.neg_item_ph = tf.placeholder(tf.int32, [None, self.neg_samples], name="neg_item")
         self.predict_item = tf.concat([self.pos_item_ph, self.neg_item_ph], axis=1, name="item_to_predict")
 
     def _create_variable(self):
