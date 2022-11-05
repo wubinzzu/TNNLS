@@ -1,7 +1,7 @@
 # GCRec
 This is our Tensorflow implementation for our TNNLS 2021 paper(under review) and some baselines:
 
->Bin Wu, Xiangnan He, Qi Zhang, Meng Wang, Yangdong Ye(2021). GCRec: Graph Augmented Capsule Network for Next-Item Recommendation(under review).
+>Bin Wu, Xiangnan He, Qi Zhang, Meng Wang, Yangdong Ye(2021). GCRec: Graph Augmented Capsule Network for Next-Item Recommendation, Accept, 2022.
 
 ## Environment Requirement
 The code has been tested running under Python 3.6.5. The required packages are as follows:
